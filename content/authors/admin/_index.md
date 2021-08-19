@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Kaining Zhou
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD student of irrigation and plant environment
 
 # Organizations/Affiliations to show in About widget
 organizations:
