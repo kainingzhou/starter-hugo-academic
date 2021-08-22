@@ -22,7 +22,7 @@ feature:
   name: R
 - description: 90%
   icon: weixin
-  icon_pack: fas
+  icon_pack: fab
   name: Write for official account
 - description: 30%
   icon: chart-line
